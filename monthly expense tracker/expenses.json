@@ -1,0 +1,24 @@
+{
+  "budget": "1200.00",
+  "default_budget": "1200.00",
+  "expenses": [
+    {
+      "id": 1,
+      "name": "Groceries",
+      "amount": "200.00",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 2,
+      "name": "Utilities",
+      "amount": "150.00",
+      "date": "2024-06-05"
+    },
+    {
+      "id": 3,
+      "name": "Transportation",
+      "amount": "100.00",
+      "date": "2024-06-10"
+    }
+  ]
+}
